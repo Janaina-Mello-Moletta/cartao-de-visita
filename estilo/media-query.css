@@ -1,0 +1,40 @@
+@charset "UTf-8";
+
+@media (max-width:600px) {
+  #container {
+     background-color: rgb(199, 86, 49);
+}
+
+ #conteudo {
+     width: 92vw;
+     right: 55%;
+     top: 45%;
+
+    transform: translate(-50%, -50%);
+ }
+
+ #conteudo {
+    padding-bottom: 70px;
+}
+
+ #conteudo  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(235, 218, 218); 
+}
+ .bolo {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+   color: rgb(224, 231, 231);
+}
+ .texto1 {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+   color: rgb(224, 231, 231);  
+}
+.texto2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  color: rgb(224, 231, 231);  
+ }
+}
+
